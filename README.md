@@ -56,7 +56,9 @@ Some of the visualizations included:
 pip install -r requirements.txt
 jupyter notebook healthcare_eda.ipynb
 
-## 📌 Author
+---
+
+## **📌 Author**
 
 Vaishnavi Patange
 Aspiring Data Analyst / Data Scientist
